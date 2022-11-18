@@ -1,4 +1,4 @@
-# ToDay pladData Learned
+# Today playData Learned
 
 ## 분류
 * Python 9일
